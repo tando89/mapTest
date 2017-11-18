@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EsriMapTest</string>
+    <string name="sample_service_url">http://sampleserver6.arcgisonline.com/arcgis/rest/services/Recreation/FeatureServer/0</string>
+</resources>
